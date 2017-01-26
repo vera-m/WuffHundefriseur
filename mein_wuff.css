@@ -1,0 +1,31 @@
+.logo {
+  width: 100px;
+  height: 100px;
+  margin: 10px auto;
+  float: left;
+  border-radius: 50%;
+}
+.container {
+  display: inline-block;
+  margin: 0 auto;
+}
+
+.search {
+  float: right;
+}
+
+.container-fluid {
+  background-color: #94dd90;
+}
+
+.carousel-inner > .item > img {
+    margin: 0 auto;
+    width:520px;
+    height:300px;
+    overflow:hidden;
+}
+
+.item {
+min-width: 100%;
+min-height: 100%
+}
